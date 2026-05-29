@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Draft Randomizer – Mode 1</title>
+    <link rel="stylesheet" href="mode1.css">
+    <script src="mode1.js" defer></script>
+</head>
+
+<body>
+
+<div class="nav">
+    <h2>Draft Randomizer</h2>
+    <div class="nav-actions">
+        <a href="randomizer.html" class="mode-btn">← Main</a>
+        <a href="mode1.html" class="mode-btn active">Mode 1</a>
+        <a href="mode2.html" class="mode-btn">Mode 2</a>
+        <a href="mode3.html" class="mode-btn">Mode 3</a>
+        <button class="reset-btn" onclick="resetSelects()">Reset</button>
+    </div>
+</div>
+
+<center>
+    <div class="logos">
+        <div class="placeholder">Tap the "randomize" button to randomize!</div>
+        <img id="76ers"        src="76ers.png"        alt="76ers">
+        <img id="bucks"        src="bucks.png"        alt="Bucks">
+        <img id="bulls"        src="bulls.png"        alt="Bulls">
+        <img id="cavaliers"    src="cavaliers.png"    alt="Cavaliers">
+        <img id="celtics"      src="celtics.png"      alt="Celtics">
+        <img id="clippers"     src="clippers.png"     alt="Clippers">
+        <img id="grizzlies"    src="grizzlies.png"    alt="Grizzlies">
+        <img id="hawks"        src="hawks.png"        alt="Hawks">
+        <img id="heat"         src="heat.png"         alt="Heat">
+        <img id="hornets"      src="hornets.png"      alt="Hornets">
+        <img id="jazz"         src="jazz.png"         alt="Jazz">
+        <img id="kings"        src="kings.png"        alt="Kings">
+        <img id="knicks"       src="knicks.png"       alt="Knicks">
+        <img id="lakers"       src="lakers.png"       alt="Lakers">
+        <img id="magic"        src="magic.png"        alt="Magic">
+        <img id="mavericks"    src="mavericks.png"    alt="Mavericks">
+        <img id="nets"         src="nets.png"         alt="Nets">
+        <img id="nuggets"      src="nuggets.png"      alt="Nuggets">
+        <img id="pacers"       src="pacers.png"       alt="Pacers">
+        <img id="pelicans"     src="pelicans.png"     alt="Pelicans">
+        <img id="pistons"      src="pistons.png"      alt="Pistons">
+        <img id="raptors"      src="raptors.png"      alt="Raptors">
+        <img id="rockets"      src="rockets.png"      alt="Rockets">
+        <img id="spurs"        src="spurs.png"        alt="Spurs">
+        <img id="suns"         src="suns.png"         alt="Suns">
+        <img id="thunder"      src="thunder.png"      alt="Thunder">
+        <img id="timberwolves" src="timberwolves.png" alt="Timberwolves">
+        <img id="blazers"      src="blazers.png"      alt="Trail Blazers">
+        <img id="warriors"     src="warriors.png"     alt="Warriors">
+        <img id="wizards"      src="wizards.png"      alt="Wizards">
+    </div>
+
+    <p id="message" style="text-align:center;"></p>
+</center>
+
+<div class="spin">
+    <button id="spinBtn" onclick="spin()">Randomize</button>
+</div>
+<br>
+
+<!-- ==================== PLAYER POOL BOARD ==================== -->
+<div class="pool-board-wrap">
+    <div class="pool-board-header">
+        <span class="pool-board-title">PLAYER POOL</span>
+        <span class="pool-board-sub" id="poolCountLabel"></span>
+    </div>
+    <div id="playerPoolList" class="pool-board-list">
+        <!-- filled by JS -->
+    </div>
+</div>
+
+<br>
+
+<!-- ==================== TEAM DRAFT BOARD ==================== -->
+<div class="draft-board-wrap team-board-wrap">
+    <div class="draft-board-header team-board-header">
+        <span class="draft-board-title">DRAFT BOARD</span>
+    </div>
+    <!-- team name row below header -->
+    <div class="team-board-bar">
+        <button class="switch-team-arrow" onclick="switchTeam(-1)">&#8592;</button>
+        <span class="team-board-name" id="currentTeamName">—</span>
+        <button class="switch-btn" onclick="switchTeam(1)">switch team</button>
+        <button class="switch-team-arrow" onclick="switchTeam(1)">&#8594;</button>
+    </div>
+    <div id="teamDraftList" class="team-board-list">
+        <!-- filled by JS -->
+    </div>
+</div>
+
+<br>
+
+</body>
+</html>

@@ -1,0 +1,513 @@
+‎WARRIORS
+‎Stephen Curry 99 PG 6'3
+‎Monta Ellis 95 SG 6'4
+‎Rick Barry 99 SF 6'7
+‎Draymond Green 90 PF/SF 6'7
+‎Nate Thurmond 94 C 6'11
+‎Chris Mullin 99 SF 6'7
+‎Jason Richardson 90 SG 6'6
+‎Sleepy Floyd 90 PG 6'3
+‎Klay Thompson 89 SG 6'7
+‎Andrew Bogut 80 C 7'0
+‎Shaun Livingston 78 PG 6'6
+‎Harrison Barnes 76 SF/PF 6'8
+‎Brian Cook 67 PF/C 6'9
+‎David West 78 SF/PF 6'8
+‎Marrese Speights 81 SF 6'9
+‎
+‎WIZARDS
+‎Gilbert Arenas 91 PG/SG 6'4
+‎John Wall 92 SG/PG 6'4
+‎Antawn Jamison 90 SF 6'7
+‎Wes Unseld 99 PF 6'8
+‎Manute Bol 99 C 7'7
+‎Bob Lanier 89 C 6'11
+‎Willis Reed 87 C 7'0
+‎Gheorghe Muresan 94 C 7'7
+‎Bradley Beal 89 SG/PG 6'3
+‎Raja Bell 85 SF/PF 6'8
+‎Caron Butler 82 SF 6'7
+‎Javale McGee 81 C 7'0
+‎A.C. Green 74 PF 6'9
+‎Mychal Thompson 71 C/PF 6'10
+‎Darvin Ham 67 SF 6'7
+‎Emeka Okafor 84 C/PF 6'10
+‎
+‎SUNS
+‎Steve Nash 99 PG/SG 6'3
+‎Devin Booker 90 SG 6'6
+‎Charles Barkley 99 SF/SG 6'6
+‎Shawn Marion 95 PF 6'7
+‎Amare Stoudemire 99 C 6'10
+‎Kevin Johnson 91 PG 6'1
+‎Dennis Johnson 89 PG 6'4
+‎Cedric Ceballos 85 SF 6'6
+‎Paul Westphal 85 SG/SF 6'4
+‎Deandre Ayton 83 C 7'1
+‎Goran Dragic 82 PG 6'3
+‎Quentin Richardson 81 SG/SF 6'6
+‎Elden Campbell 69 C 6'11
+‎Leandro Barbosa 72 PG 6'3
+‎Mario Elie 68 SG/SF 6'5
+‎
+‎TIMBERWOLVES
+‎Sam Cassell 88 PG 6'3
+‎Isaiah Thomas 89 SG/SF 6'5
+‎Andrew Wiggins 84 SF 6'8
+‎Kevin Garnett 99 PF 6'11
+‎Karl-Anthony Towns 92 C 7'0
+‎Christian Laettner 88 PF 6'11
+‎Kevin Love 88 PF 6'10
+‎Stephon Marbury 85 PG/SG 6'3
+‎Zach Lavine 88 SG 6'6
+‎D'angelo Russell 84 PG/SG 6'5
+‎Ricky Rubio 81 PG 6'4
+‎Wally Szczerbiak 80 SF 6'7
+‎Latrell Sprewell 77 SF/SG 6'5
+‎Trenton Hassell 74 SG 6'5
+‎Rod Strickland 80 PG 6'3
+‎
+‎THUNDER
+‎Gary Payton 99 PG/SG 6'4
+‎Ray Allen 99 SG 6'5
+‎Kevin Durant 99 SF 6'10
+‎Spencer Haywood 99 PF 6'8
+‎Jack Sikma 98 C 6'11
+‎Russell Westbrook 97 PG 6'3
+‎Shawn Kemp 96 PF 6'10
+‎Xavier Mcdaniel 92 SF 6'9
+‎Lenny Wilkens 90 PG/SG 6'1
+‎Serge Ibaka 86 C 7'0
+‎Detlef Schrempf 83 SF/PF 6'9
+‎Sam Perkins 80 PF 6'9
+‎Nick Collison 79 PF 6'10
+‎Thabo Sefolosha 77 SF 6'7
+‎Zac Tabu 62 PG/SG 6'2
+‎
+‎TRAIL BLAZERS
+‎Damian Lillard 94 PG 6'3
+‎Brandon Roy 99 SG 6'6
+‎Clyde Drexler 99 SF 6'7
+‎Lamarcus Aldridge 89 PF/C 6'11
+‎Greg Oden 94 C 7'0
+‎Jerome Kersey 91 SF 6'7
+‎Arvydas Sabonis 91 C/PF 7'2
+‎Terry Porter 86 PG 6'3
+‎Nicolas Batum 85 SF 6'8
+‎Kevin Duckworth 85 C 7'0
+‎Wesley Matthews 81 SG 6'5
+‎Todd Macculloch 62 C 7'0
+‎C.J. McCollum 87 SG 6'3
+‎Andre Miller 70 PG 6'2
+‎Damon Stoudamire 70 PG 5'10
+‎
+‎PISTONS
+‎Chauncey Billups 88 PG 6'3
+‎Richard Hamilton 90 SG 6'6
+‎Tayshaun Prince 89 SF 6'7
+‎Rasheed Wallace 99 PF/C 6'10
+‎Ben Wallace 87 C/PF 6'10
+‎Dave Bing 95 PG 6'3
+‎Isiah Thomas 96 PG 6'1
+‎Bill Laimbeer 89 C 6'11
+‎Andre Drummond 87 C 6'11
+‎Joe Dumars 89 SG 6'3
+‎Jerry Stackhouse 84 SG 6'6
+‎Will Bynum 85 PG 6'0
+‎Corliss Williamson 77 SF 6'7
+‎Darko Milicic 74 C 7'0
+‎Grant Hill 95 SF 6'8
+‎
+‎ROCKETS
+‎Calvin Murphy 97 PG 5'9
+‎James Harden 92 SG 6'5
+‎Elvin Hayes 99 SF 6'9
+‎Josh Smith 85 PF 6'9
+‎Hakeem Olajuwon 99 C 7'0
+‎Yao Ming 97 C 7'6
+‎Ralph Sampson 93 C/PF 7'4
+‎Patrick Beverly 89 PG 6'1
+‎Steve Francis 87 PG 6'3
+‎Otis Thorpe 87 PF/C 6'10
+‎Vernon Maxwell 83 SG/SF 6'4
+‎Kenny Smith 82 PG/SG 6'3
+‎Cuttino Mobley 82 SG/SF 6'4
+‎Chandler Parsons 74 SF 6'10
+‎Howard Eisley 65 PG/SG 6'2
+‎
+‎RAPTORS
+‎Kyle Lowry 86 PG/SG 6'0
+‎Demar Derozan 87 SG 6'7
+‎Vince Carter 98 SF 6'6
+‎Pascal Siakam 87 PF 6'9
+‎Antonio Davis 83 C/PF 6'9
+‎Jeff Morrison 97 SF/PF 6'6
+‎Jonas Valanciunas 83 C 7'0
+‎Rodney Mccray 79 SF 6'7
+‎Jose Calderon 79 PG 6'3
+‎Morris Peterson 74 SG 6'8
+‎Fred Vanvleet 79 PG/SG 6'0
+‎Jordan Hill 75 PF/C 6'10
+‎Dave Corzine 60 C 6'11
+‎Scott Williams 72 PF 6'10
+‎Vincent Askew 71 SG 6'5
+‎
+‎SPURS
+‎Tony Parker 97 PG/SG 6'2
+‎Manu Ginobli 97 SG/SF 6'6
+‎Kawhi Leonard 95 SF 6'7
+‎Tim Duncan 99 PF 6'11
+‎David Robinson 99 C/PF 7'1
+‎George Gervin 93 SF 6'7
+‎Boris Diaw 83 PF 6'8
+‎Sean Elliott 83 SF/PF 6'8
+‎Bruce Bowen 81 SF 6'7
+‎Vinny Del Negro 81 SG/SF 6'4
+‎Avery Johnson 80 PG 5'10
+‎Tiago Splitter 77 C 6'11
+‎Gary Neal 81 SG 6'4
+‎Danny Green 77 SG 6'6
+‎Antoine Carr 67 PF/C 6'4
+‎Marco Belinelli 75 SG/SF 6'5
+‎
+‎NETS
+‎Jason Kidd 99 PG/SG 6'4
+‎Drazen Petrovic 89 SG 6'5
+‎Joe Johnson 90 SF 6'7
+‎Kenyon Martin 97 PF 6'9
+‎Brook Lopez 82 C 7'0
+‎Buck Williams 88 PF 6'8
+‎Kenny Anderson 87 PG 6'0
+‎Richard Jefferson 86 SF 6'7
+‎Michael Cooper 84 SG/PG 6'5
+‎Devin Harris 84 PG/SG 6'3
+‎Keith Van Horn 84 SF 6'10
+‎Deron Williams 87 PG/SG 6'2
+‎Spencer Dinwiddie 81 PG 6'6
+‎Bo Outlaw 75 PF 6'8
+‎Jarrett Jack 72 PG 6'1
+‎
+‎PACERS
+‎George Hill 81 PG 6'3
+‎Reggie Miller 93 SG/PG 6'7
+‎Danny Granger 90 SF/SG 6'7
+‎Paul George 93 PF/SF 6'8
+‎Jermaine O'neal 95 PF 6'11
+‎Rik Smits 87 C 7'3
+‎Chuck Person 90 SF/PF 6'8
+‎Jalen Rose 89 SF/PF 6'8
+‎Victor Oladipo 88 SG/SF 6'4
+‎Lance Stephenson 88 SG 6'5
+‎Roy Hibbert 86 C 7'1
+‎George Mcginnis 99 PF/C 6'9
+‎Domantas Sabonis 81 C 6'11
+‎Herb Williams 87 C 6'11
+‎Myles Turner 82 C 6'11
+‎
+‎NUGGETS
+‎Fat Lever 93 PG 6'3
+‎David Thompson 99 SG 6'4
+‎Carmelo Anthony 99 SF 6'8
+‎Antonio Mcdyess 92 PF/C 6'9
+‎Marcus Camby 99 C 6'10
+‎Alex English 96 SF 6'7
+‎Dan Issel 88 PF/C 6'9
+‎Kiki Vandeweghe 88 SF 6'8
+‎Laphonso Ellis 87 PF 6'8
+‎Nick Van Exel 83 PG 6'1
+‎J.R. Smith 86 SG 6'6
+‎Nikola Jokic 90 C 7'0
+‎Wilson Chandler 78 SF 6'8
+‎Mahmoud Abdul-Rauf 80 PG/SG 6'1
+‎Nene 80 PF/C 6'11
+‎
+‎PELICANS
+‎Chris Paul 99 PG 6'0
+‎Tony Douglas 95 PG/SG 6'2
+‎Brandon Ingram 81 SF/SG 6'9
+‎Anthony Davis 99 PF/C 6'10
+‎Tyson Chandler 82 C 7'1
+‎Jrue Holiday 89 SG 6'4
+‎Kenneth Faried 82 PF 6'8
+‎Eric Gordon 80 SG 6'4
+‎Ryan Anderson 78 PF 6'10
+‎Lonzo Ball 79 PG 6'6
+‎Carl Landry 75 PF/C 6'9
+‎Ramon Sessions 81 PG/SG 6'3
+‎Mo Williams 75 PG 6'2
+‎Willie Green 84 PG/SG 6'4
+‎Nazr Mohammed 64 C/PF 6'10
+‎
+‎KNICKS
+‎Jeremy Lin 93 PG/SG 6'3
+‎Allan Houston 88 SG 6'6
+‎Derrick Williams 91 SF 6'8
+‎Dave Debusschere 99 PF/SF 6'6
+‎Patrick Ewing 99 C 7'0
+‎Walt Frazier 90 PG 6'4
+‎Mark Jackson 90 PG 6'1
+‎Derrick King 88 SF 6'7
+‎Dick Barnett 88 SG/SF 6'4
+‎Michael Ray Richardson 88 PG/SG 6'5
+‎John Starks 86 SG 6'3
+‎Julius Randle 83 PF/C 6'9
+‎Charles Oakley 83 PF/C 6'9
+‎Kristaps Porzingis 82 PF 7'2
+‎Earl Monroe 82 PG/SG 6'3
+‎
+‎MAGIC
+‎Penny Hardaway 95 PG/SG 6'7
+‎Tracy Mcgrady 99 SG/PG 6'7
+‎Hedo Turkoglu 90 SF/PF 6'7
+‎Aaron Gordon 81 PF 6'9
+‎Dwight Howard 99 C 6'10
+‎Nikola Vucevic 86 C 7'0
+‎Nick Anderson 85 SG/SF 6'6
+‎William Jackson 84 SG/SF 6'5
+‎Darrell Armstrong 77 PG/SG 6'1
+‎Vinnie Johnson 75 SG/PG 6'2
+‎Dennis Scott 80 SF/PF 6'8
+‎Jameer Nelson 80 PG/SG 6'1
+‎Brian Scalabrine 72 PF 6'9
+‎Brian Shaw 71 PG/SG 6'5
+‎Daniel Gibson 69 PG 6'3
+‎
+‎LAKERS
+‎Jerry West 99 PG/SG 6'2
+‎Kobe Bryant 99 SG 6'6
+‎James Worthy 99 SF/PF 6'9
+‎Wilt Chamberlain 97 C/PF 7'1
+‎Shaquille O'neal 99 C/PF 7'1
+‎Magic Johnson 99 PG/SG 6'8
+‎Pau Gasol 95 C 7'0
+‎Gail Goodrich 95 SG/PG 6'1
+‎Jamaal Wilkes 93 SF 6'6
+‎Kareem Abdul-Jabbar 93 C/PF 7'2
+‎Lamar Odom 85 C/PF 6'10
+‎Derek Fisher 84 PG/SG 6'3
+‎Rick Fox 77 SF 6'7
+‎Andrew Bynum 80 C 6'11
+‎Robert Horry 75 PF/C 6'9
+‎Ron Artest 80 SF 6'7
+‎
+‎MAVERICKS
+‎Luka Doncic 93 PG/SG 6'7
+‎Rolando Blackman 93 SG/SF 6'6
+‎Mark Aguirre 95 SF 6'6
+‎Dirk Nowitzki 99 PF/C 7'1
+‎Shawn Bradley 85 C 7'6
+‎Jamal Mashburn 91 SF/PF 6'8
+‎Jim Jackson 91 SG/SF 6'6
+‎Michael Finley 90 SF 6'7
+‎Derek Harper 85 PG/SG 6'4
+‎Delonte West 81 PG/SG 6'4
+‎Jason Terry 79 PG/SG 6'3
+‎Charlie Villanueva 79 PF/SF 6'9
+‎Eduardo Najera 74 SF/PF 6'8
+‎Brendan Haywood 77 C 7'0
+‎J.J. Barea 75 PG/SG 6'0
+‎
+‎HEAT
+‎Tim Hardaway 88 PG 6'0
+‎Dwyane Wade 99 SG 6'4
+‎LeBron James 99 SF 6'9
+‎Chris Bosh 90 PF 6'11
+‎Alonzo Mourning 99 C 6'10
+‎Glen Rice 92 SF 6'7
+‎Dan Majerle 90 SG 6'6
+‎Eddie Jones 86 SG 6'6
+‎Chris Andersen 82 C 6'11
+‎James Jones 81 SF/SG 6'8
+‎Mike Miller 83 SF 6'8
+‎Mario Chalmers 82 PG/SG 6'2
+‎Rony Seikaly 82 C 6'11
+‎Udonis Haslem 80 PF 6'8
+‎P.J. Brown 82 C 7'0
+‎
+‎JAZZ
+‎John Stockton 99 PG/SG 6'1
+‎Pete Maravich 99 SG 6'5
+‎Adrian Dantley 98 SF/SG 6'5
+‎Karl Malone 96 PF/C 6'9
+‎Mark Eaton 85 C 7'4
+‎Tom Chambers 93 PF/C 6'10
+‎Andrei Kirilenko 92 PF/C 6'9
+‎Derrick Favors 87 PF 6'10
+‎Darrell Griffith 86 SG/SF 6'4
+‎Gordon Hayward 84 SF 6'8
+‎Rudy Gobert 88 C 7'1
+‎Donovan Mitchell 88 SG 6'2
+‎Jeff Hornacek 82 SG 6'3
+‎Bojan Bogdanovic 83 SF/PF 6'8
+‎Ronny Turiaf 81 C/PF 6'10
+‎
+‎HORNETS
+‎Lamelo Ball 87 PG/SG 6'7
+‎Kendall Gill 88 SG/SF 6'5
+‎Gerald Wallace 86 SF 6'7
+‎Larry Johnson 99 PF/SF 6'7
+‎Derrick Coleman 82 C/PF 6'10
+‎David Wesley 86 SG/PG 6'0
+‎Stephen Jackson 87 SF/PF 6'8
+‎Muggsy Bogues 82 PG 5'3
+‎Kemba Walker 82 PG/SG 6'1
+‎Shannon Brown 84 SG/PG 6'5
+‎Baron Davis 86 PG 6'3
+‎Dell Curry 76 SG 6'5
+‎Lindsey Hunter 74 PG 6'3
+‎Miles Bridges 76 SF 6'7
+‎Brian Roberts 78 PG/SG 6'2
+‎
+‎KINGS
+‎Jason Williams 88 PG 6'2
+‎Mitch Richmond 89 SG 6'5
+‎Tyreke Evans 94 SF 6'7
+‎Chris Webber 99 PF 6'9
+‎Demarcus Cousins 95 C 6'11
+‎Vlade Divac 90 C 7'1
+‎Jerry Lucas 89 PF 6'8
+‎Doug Christie 88 SG/SF 6'6
+‎Mike Bibby 88 PG 6'1
+‎Peja Stojakovic 85 SF 6'8
+‎Reggie Theus 85 PG/SG 6'6
+‎De'aaron Fox 86 PG 6'3
+‎Nate Archibald 84 PG/SG 6'1
+‎Darren Collison 80 PG 6'0
+‎Kevin Martin 77 SG/SF 6'7
+‎
+‎CELTICS
+‎Bob Cousy 99 PG/SG 6'1
+‎Sam Jones 90 SG/SF 6'4
+‎Larry Bird 99 SF/PF 6'9
+‎Kevin McHale 99 PF 6'10
+‎Dave Cowens 99 C/PF 6'9
+‎John Havlicek 99 SF/SG 6'5
+‎Paul Pierce 99 SF 6'7
+‎Bill Russell 99 C/PF 6'10
+‎Robert Parish 94 C 7'0
+‎Tom Heinsohn 92 PF/SF 6'7
+‎Antoine Walker 91 PF/C 6'9
+‎Brandon Bass 81 PF 6'8
+‎Isaiah Thomas 84 PG 5'10
+‎Jayson Tatum 91 SF 6'8
+‎Rajon Rondo 89 PG 6'1
+‎
+‎GRIZZLIES
+‎Ja Morant 90 PG 6'3
+‎Tony Allen 84 SG 6'4
+‎Shane Battier 89 SF 6'8
+‎Zach Randolph 94 PF 6'9
+‎Marc Gasol 99 C 7'1
+‎Shareef Abdur-Rahim 92 PF 6'9
+‎Mike Conley 84 PG 6'1
+‎Byron Scott 83 SG/PG 6'3
+‎Matt Barnes 82 SF 6'7
+‎Bonzi Wells 82 SF/SG 6'5
+‎James Posey 81 SF 6'8
+‎O.J. Mayo 81 SG/PG 6'5
+‎Rick Mahorn 70 C/PF 6'10
+‎Greg Anthony 76 PG/SG 6'1
+‎Rudy Gay 79 SF 6'8
+‎
+‎CLIPPERS
+‎World B. Free 88 PG 6'2
+‎Jamal Crawford 90 SG/SF 6'5
+‎Bob McAdoo 98 SF 6'9
+‎Danny Manning 97 PF/C 6'10
+‎Chris Kaman 93 C 7'0
+‎Corey Maggette 89 SF 6'6
+‎Blake Griffin 88 PF 6'10
+‎Bill Walton 86 C 6'11
+‎Deandre Jordan 86 C 6'11
+‎Eric Bledsoe 85 PG 6'1
+‎Louis Williams 84 SG/PG 6'1
+‎Jordan Farmar 80 PG 6'2
+‎Darius Miles 76 SF/PF 6'9
+‎J.J. Redick 77 SG 6'5
+‎Tarik Black 73 C/PF 6'9
+‎
+‎HAWKS
+‎Trae Young 89 PG 6'2
+‎Kyle Korver 87 SG 6'7
+‎Dominique Wilkins 99 SF 6'7
+‎Bob Pettit 99 PF 6'9
+‎Dikembe Mutombo 97 C/PF 7'2
+‎Kevin Willis 87 PF 7'0
+‎Paul Millsap 87 PF 6'8
+‎Al Horford 87 C 6'10
+‎Steve Smith 86 SG 6'7
+‎Lou Hudson 89 PG/SG 6'5
+‎John Collins 84 PF 6'10
+‎Doc Rivers 82 PG 6'4
+‎Jeff Teague 82 PG 6'2
+‎Stacey Augmon 79 SG 6'8
+‎Spud Webb 83 PG 5'7
+‎
+‎76ERS
+‎Hal Greer 90 PG 6'2
+‎Allen Iverson 99 SG/PG 6'0
+‎Julius Erving 98 SF 6'6
+‎Billy Cunningham 97 PF/SF 6'6
+‎Moses Malone 99 C 6'10
+‎Joel Embiid 93 C 7'0
+‎Andre Iguodala 91 SF 6'6
+‎Ben Simmons 90 PG/PF 6'10
+‎Eric Snow 87 PG 6'3
+‎Hersey Hawkins 87 SG 6'3
+‎Maurice Cheeks 86 PG/SG 6'1
+‎George Lynch 84 SF/PF 6'8
+‎Darryl Dawkins 81 C 6'11
+‎Tyrone Hill 80 PF/C 6'9
+‎Matt Geiger 77 C 7'1
+‎
+‎BULLS
+‎Derrick Rose 96 PG 6'3
+‎Michael Jordan 99 SG/SF 6'8
+‎Scottie Pippen 99 SF/PF 6'8
+‎Dennis Rodman 93 PF 6'8
+‎Artis Gilmore 99 C 7'2
+‎Jimmy Butler 91 SG/SF 6'7
+‎Joakim Noah 87 C 6'11
+‎Bob Love 86 PF 6'8
+‎Jerry Sloan 86 SG/SF 6'5
+‎Luol Deng 86 SF 6'9
+‎Tony Kukoc 84 SF/PF 6'10
+‎Horace Grant 82 PF 6'11
+‎Bill Cartwright 71 C 7'1
+‎Steve Kerr 74 PG 6'3
+‎B.J. Armstrong 77 PG/SG 6'2
+‎
+‎BUCKS
+‎Oscar Robertson 94 PG/SG 6'5
+‎Sidney Moncrief 99 SG 6'3
+‎Giannis Antetokounmpo 96 PF/C 6'11
+‎Terry Cummings 92 PF 6'9
+‎Vin Baker 92 PF 6'10
+‎Bob Dandridge 93 SF 6'6
+‎Michael Redd 87 SG 6'6
+‎Paul Pressey 82 SG/SF 6'5
+‎Cliff Robinson 82 SG 6'7
+‎Khris Middleton 88 SF/PF 6'8
+‎Brandon Jennings 84 PG/SG 6'4
+‎Samuel Dalembert 82 SF 6'10
+‎Steve Novak 70 PF/SF 6'10
+‎Ricky Pierce 82 SF/SG 6'4
+‎Jon McGlocklin 80 SG/SF 6'5
+‎
+‎CAVALIERS
+‎Kyrie Irving 93 PG 6'2
+‎Austin Carr 88 SG/SF 6'4
+‎Larry Nance 85 SF 6'10
+‎Donyell Marshall 82 PF/SF 6'9
+‎Brad Daugherty 90 C 7'0
+‎Terrell Brandon 90 PG/SG 5'11
+‎Zydrunas Ilgauskas 87 C 7'3
+‎Larry Hughes 86 SG 6'5
+‎Ron Harper 84 PG/SG 6'5
+‎Mark Price 81 PG/SG 6'0
+‎Anderson Varejao 81 C 6'11
+‎Drew Gooden 80 C 6'10
+‎Carlos Boozer 79 PF 6'9
+‎Damon Jones 77 PG 6'3
+‎Craig Ehlo 78 SG/SF 6'6
+‎
